@@ -2,21 +2,15 @@
 
 This github repository contains a jupyter notebook, which provides an introduction to cartopy and data gridding. 
 # Jupyter notebook content:
-1.	
-2.	
-3.	High resolution topographic maps
-4.	Data gridding
-5.	Multiple figure axis
-
 <ul>
-  <li> Cartopy overview and simple global map</li>
-  <li> Map featues </li>
-  <li> Rotating global maps </li>
-  <li> Map projection</li>
-  <li> High resolution topographic maps</li>
-<li>High resolution topographic maps</li>
-<li> Data gridding</li>
- <li> Multiple figure axis</li>
+  <li>Cartopy overview</li>
+  <li>Ploting simple global maps</li>
+  <li>Adding map featues</li>
+  <li>Rotating the view of global maps</li>
+  <li>Handling map projection</li>
+  <li>Data gridding and interpolation</li>
+  <li>Creating high resolution topographic maps</li>
+  <li>Handling of multiple figure axis</li>
 </ul>
 
 # Github repository Content:
